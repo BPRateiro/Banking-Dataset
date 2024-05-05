@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "banking dataset"
+version = "0.1.0"
+description = ""
+authors = ["Bruno Pigari Rateiro <bruno.rateiro@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.29.4"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+package-mode = false
