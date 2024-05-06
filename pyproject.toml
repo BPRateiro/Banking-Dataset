@@ -13,6 +13,8 @@ matplotlib = "^3.8.4"
 seaborn = "^0.13.2"
 pyarrow = "^16.0.0"
 fastparquet = "^2024.2.0"
+summarytools = "^0.2.3"
+distfit = "^1.7.3"
 
 
 [build-system]
