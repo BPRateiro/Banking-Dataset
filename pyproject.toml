@@ -17,6 +17,7 @@ summarytools = "^0.2.3"
 distfit = "^1.7.3"
 numpy = "^1.26.4"
 scipy = "^1.13.0"
+dython = "^0.7.5"
 
 
 [build-system]
